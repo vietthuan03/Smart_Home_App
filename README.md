@@ -101,5 +101,6 @@ $ genhtml coverage/lcov.info -o coverage/
 $ open coverage/index.html
 ```
 ---
-### Smart home app Ui (community)
-[link figma]: https://www.figma.com/design/FmchvRC0swVuVn63XYJb5T/Smart-Home-App-UI--Community
+
+## UI/UX Design
+👉 [Smart Home App - Figma Design](https://www.figma.com/design/FmchvRC0swVuVn63XYJb5T/Smart-Home-App-UI--Community)
